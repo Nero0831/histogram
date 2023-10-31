@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1697202753 source:c:\users\yi xue lee\onedrive\desktop\cw1\histogram\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<ctype.h>
+	"histogram.h"
+
+1697185431 source:c:\users\yi xue lee\onedrive\desktop\cw1\histogram\histogram.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<ctype.h>
+	"histogram.h"
+
+1697185141 c:\users\yi xue lee\onedrive\desktop\cw1\histogram\histogram.h
+	<iomanip>
+	<fstream>
+	<iostream>
+	<sstream>
+	<unordered_map>
+	<ctype.h>
+
